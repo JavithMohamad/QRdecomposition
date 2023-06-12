@@ -63,8 +63,8 @@ QR_Decomposition(a)
 
 ```
 
-## Output
-![Uploading 8.png…]()
+## Output:
+![8](https://github.com/JavithMohamad/QRdecomposition/assets/121215951/1b1fcc4b-1b2a-4e6e-b0b5-f3407d7d49d9)
 
 
 ## Result
